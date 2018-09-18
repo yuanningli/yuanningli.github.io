@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Associative hallucinations result from stimulating left ventromedial temporal cortex"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2016-Cortex
+excerpt: 'Using electrocorticography (ECoG) in a single human patient, medial regions of the left ventromedial temporal cortex (VTC) were found to be sensitive to the contextual associations of objects. Electrical brain stimulation (EBS) of this part of the left VTC of the patient, functionally defined as sensitive to associative processing, caused memory related, associative experiential visual phenomena. This provides evidence of a relationship between visual recognition, associative processing, and episodic memory. These results suggest a potential role for abnormalities of these processes as part of a mechanism that gives rise to some visual hallucinations.'
+date: 2016-07-26
+venue: 'Cortex'
+paperurl: '/files/2016_Cortex.pdf'
+#citation: 'Albalawi, Hassan, Yuanning Li, and Xin Li. "Computer-aided design of machine learning algorithm: Training fixed-point classifier for on-chip low-power implementation." In <i>Proceedings of the 51st Annual Design Automation Conference</i>, pp. 1-6. ACM, 2014.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Using electrocorticography (ECoG) in a single human patient, medial regions of the left ventromedial temporal cortex (VTC) were found to be sensitive to the contextual associations of objects. Electrical brain stimulation (EBS) of this part of the left VTC of the patient, functionally defined as sensitive to associative processing, caused memory related, associative experiential visual phenomena. This provides evidence of a relationship between visual recognition, associative processing, and episodic memory. These results suggest a potential role for abnormalities of these processes as part of a mechanism that gives rise to some visual hallucinations.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](/files/2016_Cortex.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Citation: Aminoff, Elissa M., Yuanning Li, John A. Pyles, Michael J. Ward, R. Mark Richardson, and Avniel S. Ghuman. "Associative hallucinations result from stimulating left ventromedial temporal cortex." <i>Cortex</i> 83 (2016): 139-144.
+
