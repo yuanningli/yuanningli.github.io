@@ -3,7 +3,7 @@ title: "Endogenous oscillatory activity modulates category tuning and influences
 collection: talks
 type: "Poster"
 permalink: /talks/2018-09-07-CCN-poster
-venue: "2018 Conference on Cognitive Computational Neuroscience"
+venue: "2018 Conference on Cognitive Computational Neuroscience (CCN 2018)"
 date: 2018-09-07
 location: "Philadelphia, PA, USA"
 ---
