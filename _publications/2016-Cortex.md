@@ -10,7 +10,7 @@ paperurl: '/files/2016_Cortex.pdf'
 ---
 Using electrocorticography (ECoG) in a single human patient, medial regions of the left ventromedial temporal cortex (VTC) were found to be sensitive to the contextual associations of objects. Electrical brain stimulation (EBS) of this part of the left VTC of the patient, functionally defined as sensitive to associative processing, caused memory related, associative experiential visual phenomena. This provides evidence of a relationship between visual recognition, associative processing, and episodic memory. These results suggest a potential role for abnormalities of these processes as part of a mechanism that gives rise to some visual hallucinations.
 
-[Download paper here](/files/2016_Cortex.pdf)
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27533133), [pdf](/files/2016_Cortex.pdf)
 
 Citation: Aminoff, Elissa M., Yuanning Li, John A. Pyles, Michael J. Ward, R. Mark Richardson, and Avniel S. Ghuman. "Associative hallucinations result from stimulating left ventromedial temporal cortex." <i>Cortex</i> 83 (2016): 139-144.
 
