@@ -11,4 +11,4 @@ I am currently a fifth-year PhD student in the joint PhD program in [Neural Comp
 
 My research interests primarily lie in the intersection between computational and cognitive neuroscience. I am particularly interested in developing and applying statistical machine learning methods to analyze neural data and understand the mechanisms underlying human cognitive processes, especially high-level sensory perception, with a combination of multiple signal modalities, including intracranial EEG, MEG and fMRI. 
 
-
+Here is my [CV](/files/Yuanning_Li_CV.pdf).
