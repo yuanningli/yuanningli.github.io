@@ -12,5 +12,5 @@ Using electrocorticography (ECoG) in a single human patient, medial regions of t
 
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27533133), [pdf](/files/2016_Cortex.pdf)
 
-Citation: Aminoff, Elissa M., Yuanning Li, John A. Pyles, Michael J. Ward, R. Mark Richardson, and Avniel S. Ghuman. "Associative hallucinations result from stimulating left ventromedial temporal cortex." <i>Cortex</i> 83 (2016): 139-144.
+Citation: Elissa M. Aminoff, Yuanning Li, John A. Pyles, Michael J. Ward, R. Mark Richardson, and Avniel S. Ghuman. "Associative hallucinations result from stimulating left ventromedial temporal cortex." <i>Cortex</i> 83 (2016): 139-144.
 

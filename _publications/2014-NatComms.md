@@ -12,5 +12,5 @@ This paper uses multivariate pattern classification to decode the temporal dynam
 
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25482825), [pdf](/files/2014_NatComms.pdf)
 
-Citation: Ghuman, Avniel Singh, Nicolas M. Brunet, Yuanning Li, Roma O. Konecky, John A. Pyles, Shawn A. Walls, Vincent Destefino, Wei Wang, and R. Mark Richardson. "Dynamic encoding of face information in the human fusiform gyrus." <i>Nature Communications</i>, 5 (2014): 5672.
+Citation: Avniel Singh Ghuman, Nicolas M. Brunet, Yuanning Li, Roma O. Konecky, John A. Pyles, Shawn A. Walls, Vincent Destefino, Wei Wang, and R. Mark Richardson. "Dynamic encoding of face information in the human fusiform gyrus." <i>Nature Communications</i>, 5 (2014): 5672.
 

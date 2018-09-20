@@ -12,5 +12,5 @@ The lack of multivariate methods for decoding the representational content of in
 
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28813643), [pdf](/files/2017_NeuroImage.pdf)
 
-Citation: Li, Yuanning, Robert Mark Richardson, and Avniel Singh Ghuman. "Multi-Connection Pattern Analysis: Decoding the representational content of neural communication." <i>NeuroImage</i> 162 (2017): 32-44.
+Citation: Yuanning Li, Robert Mark Richardson, and Avniel Singh Ghuman. "Multi-Connection Pattern Analysis: Decoding the representational content of neural communication." <i>NeuroImage</i> 162 (2017): 32-44.
 

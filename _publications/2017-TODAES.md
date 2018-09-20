@@ -12,5 +12,5 @@ In this article, we develop several novel algorithms to train classifiers that c
 
 [Download paper here](/files/2017_TODAES.pdf)
 
-Citation: Albalawi, Hassan, Yuanning Li, and Xin Li. "Training Fixed-Point Classifiers for On-Chip Low-Power Implementation." <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 22, no. 4 (2017): 69.
+Citation: Hassan Albalawi, Yuanning Li, and Xin Li. "Training Fixed-Point Classifiers for On-Chip Low-Power Implementation." <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 22, no. 4 (2017): 69.
 
