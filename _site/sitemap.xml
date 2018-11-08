@@ -87,6 +87,10 @@
 <lastmod>2018-09-07T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/talks/2018-11-03-SfN-talk</loc>
+<lastmod>2018-11-03T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/teaching/2013-spring-teaching-18202</loc>
 <lastmod>2013-01-01T00:00:00-08:00</lastmod>
 </url>
@@ -182,6 +186,10 @@
 <url>
 <loc>http://localhost:4000/files/2017_TODAES.pdf</loc>
 <lastmod>2017-06-14T11:17:21-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/2018-SfN-slides.pdf</loc>
+<lastmod>2018-11-08T11:06:35-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/2018-VSS-slides.pdf</loc>
