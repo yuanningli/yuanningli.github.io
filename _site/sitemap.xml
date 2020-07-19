@@ -91,6 +91,10 @@
 <lastmod>2018-11-03T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/talks/2019-10-20-SfN-poster</loc>
+<lastmod>2019-10-20T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/teaching/2013-spring-teaching-18202</loc>
 <lastmod>2013-01-01T00:00:00-08:00</lastmod>
 </url>
@@ -203,8 +207,12 @@
 <lastmod>2018-09-17T22:53:15-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/files/2019-SfN-poster.pdf</loc>
+<lastmod>2019-10-13T12:16:12-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/files/Yuanning_Li_CV.pdf</loc>
-<lastmod>2020-07-09T15:52:49-07:00</lastmod>
+<lastmod>2020-07-19T12:12:48-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>
