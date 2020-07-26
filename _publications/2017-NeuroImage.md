@@ -2,7 +2,7 @@
 title: "Multi-Connection Pattern Analysis: Decoding the representational content of neural communication"
 collection: publications
 permalink: /publication/2017-NeuroImage
-excerpt: 'The lack of multivariate methods for decoding the representational content of interregional neural communica- tion has left it difficult to know what information is represented in distributed brain circuit interactions. Here we present Multi-Connection Pattern Analysis (MCPA), which works by learning mappings between the activity patterns of the populations as a factor of the information being processed. These maps are used to predict the activity from one neural population based on the activity from the other population. Successful MCPA-based decoding indicates the involvement of distributed computational processing and provides a framework for probing the representational structure of the interaction.'
+excerpt: 'The lack of multivariate methods for decoding the representational content of interregional neural communication has left it difficult to know what information is represented in distributed brain circuit interactions. Here we present Multi-Connection Pattern Analysis (MCPA), which works by learning mappings between the activity patterns of the populations as a factor of the information being processed. These maps are used to predict the activity from one neural population based on the activity from the other population. Successful MCPA-based decoding indicates the involvement of distributed computational processing and provides a framework for probing the representational structure of the interaction.'
 date: 2017-08-13
 venue: 'NeuroImage'
 paperurl: '/files/2017_NeuroImage.pdf'
