@@ -12,5 +12,5 @@ Though the fusiform is well-established as a key node in the face perception net
 
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30124788), [pdf](/files/2018_CerebCortex.pdf)
 
-Citation: Yuanning Li, R. Mark Richardson, and Avniel Singh Ghuman. "Posterior Fusiform and Midfusiform Contribute to Distinct Stages of Facial Expression Processing." <i>Cerebral Cortexi</i> (2018).
+Citation: Yuanning Li, R. Mark Richardson, and Avniel Singh Ghuman. "Posterior Fusiform and Midfusiform Contribute to Distinct Stages of Facial Expression Processing." <i>Cerebral Cortex</i>, 29(7), 3209-3219 (2019).
 
