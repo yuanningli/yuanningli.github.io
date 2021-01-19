@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me [[CV]](/files/Yuanning_Li_CV.pdf)"
+title: "Yuanning Li, Ph.D. [[CV]](/files/Yuanning_Li_CV.pdf)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
