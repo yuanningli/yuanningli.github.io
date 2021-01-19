@@ -34,11 +34,11 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### Peer-reviewed Conference Proceedings
  1. Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2021) Multivariate temporal receptive fields in speech perception reflect low-dimensional dynamics. *Computational and Systems Neuroscience (Cosyne 2021)*, 2021
 
- 2. Albalawi, H., **Li, Y.**, & Li, X. (2014). Computer-aided design of machine learning algorithm: Training fixed-point classifier for on-chip low-power implementation. In *Proceedings of the 51st Annual Design Automation Conference* (pp. 1-6). (acceptance rate: 174/787 = 22.1%) [PDF](/files/2014_DAC_alda.pdf)
+ 2. Albalawi, H., **Li, Y.**, & Li, X. (2014). Computer-aided design of machine learning algorithm: Training fixed-point classifier for on-chip low-power implementation. In *Proceedings of the 51st Annual Design Automation Conference (DAC)* (pp. 1-6). (acceptance rate: 174/787 = 22.1%) [PDF](/files/2014_DAC_alda.pdf)
 
 
 ### Book Chapters
 
-  1. Ashburn, S., Abugaber, D., Antony, J., Bennion, K., Bridwell, D., Cardenas-Iniguez, C., Doss, M., Fernández, L., Huijsmans, I., Krisst, L., Lapate, R., Layher, E., Leong, J., **Li, Y.**, Marquez, F., Munoz-Rubke, F., Musz, L., Patterson, T., Powers, J., Proklova, D., Rapuano, K., Robinson, S., Ross, J., Samaha, J., Sazma, M., Stewart, A., Stickel, A., Stolk, A., Vilgis, V., Zirnstein, M. (2020). Towards a socially responsible, transparent, and reproducible cognitive neuroscience. In Poeppel, D., Mangun, G. R., & Gazzaniga, M. S. (Eds.). *The Cognitive Neurosciences, Sixth Edition*. MIT Press. <u><a href="https://mitpress.mit.edu/books/cognitive-neurosciences-sixth-edition">[link]</a></u>
+  1. Ashburn, S., Abugaber, D., Antony, J., Bennion, K., Bridwell, D., Cardenas-Iniguez, C., Doss, M., Fernández, L., Huijsmans, I., Krisst, L., Lapate, R., Layher, E., Leong, J., **Li, Y.**, Marquez, F., Munoz-Rubke, F., Musz, L., Patterson, T., Powers, J., Proklova, D., Rapuano, K., Robinson, S., Ross, J., Samaha, J., Sazma, M., Stewart, A., Stickel, A., Stolk, A., Vilgis, V., Zirnstein, M. (2020). Towards a socially responsible, transparent, and reproducible cognitive neuroscience. In Poeppel, D., Mangun, G. R., & Gazzaniga, M. S. (Eds.). *The Cognitive Neurosciences, Sixth Edition*. MIT Press. [Link to publisher](https://mitpress.mit.edu/books/cognitive-neurosciences-sixth-edition)
 
 
