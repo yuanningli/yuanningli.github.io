@@ -17,7 +17,7 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
  1. **Li, Y.**#, Tang, C.#, Lu, J.#, Wu, J., & Chang, E. F. (2021). Human cortical encoding of pitch in tonal and non-tonal languages. *Nature Communications*, *In Press*
 
- 2. **Li, Y.**, Ward, M. J., Richardson, R. M., G’Sell, M., & Ghuman, A. S. (2020). Endogenous activity modulates stimulus and circuit-specific neural tuning and predicts perceptual behavior. *Nature Communications, 11*(1), 1-11. [PubMed](https://rdcu.be/b6cgV), [PDF](https://rdcu.be/b6cgV)
+ 2. **Li, Y.**, Ward, M. J., Richardson, R. M., G’Sell, M., & Ghuman, A. S. (2020). Endogenous activity modulates stimulus and circuit-specific neural tuning and predicts perceptual behavior. *Nature Communications, 11*, 4014, 1-11. [PubMed](https://rdcu.be/b6cgV), [PDF](https://rdcu.be/b6cgV)
  
  3. **Li, Y.**, Richardson, R. M., & Ghuman, A. S. (2019). Posterior fusiform and midfusiform contribute to distinct stages of facial expression processing. *Cerebral Cortex, 29*(7), 3209-3219. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30124788), [PDF](/files/2018_CerebCortex.pdf)
 
