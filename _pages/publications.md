@@ -15,7 +15,7 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 ### Peer-reviewed Journal Articles
 
- 1. **Li, Y.**#, Tang, C.#, Lu, J.#, Wu, J., & Chang, E. F. (2021). Human cortical encoding of pitch in tonal and non-tonal languages. *Nature Communications*, *In Press*
+ 1. **Li, Y.**#, Tang, C.#, Lu, J.#, Wu, J., & Chang, E. F. (2021). Human cortical encoding of pitch in tonal and non-tonal languages. *Nature Communications, 12*, 1161, 1-12. [PubMed](https://rdcu.be/cfvc2), [PDF](https://rdcu.be/cfvc2)
 
  2. **Li, Y.**, Ward, M. J., Richardson, R. M., G’Sell, M., & Ghuman, A. S. (2020). Endogenous activity modulates stimulus and circuit-specific neural tuning and predicts perceptual behavior. *Nature Communications, 11*, 4014, 1-11. [PubMed](https://rdcu.be/b6cgV), [PDF](https://rdcu.be/b6cgV)
  
