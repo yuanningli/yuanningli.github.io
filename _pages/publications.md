@@ -9,12 +9,14 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 **# equal contributions; \* corresponding author(s)**
 ### Preprints
 
- 1.  Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S\*. (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *BioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
- 2.  Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2021) Latent neural dynamics encode temporal context in speech. *BioRxiv*, 452519. doi: <u><a href="https://doi.org/10.1101/2021.07.15.452519
+ 1. **Li, Y.**\*, Anumanchipalli, G., Mohamed, A., Lu, J., Wu, J., Chang, E.F.\* (2022) Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *bioRxiv*, 484195, doi: <u><a href="https://doi.org/10.1101/2022.03.14.484195"> https://doi.org/10.1101/2022.03.14.484195</a></u>
+
+ 2.  Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S\*. (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
+ 3.  Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2021) Latent neural dynamics encode temporal context in speech. *bioRxiv*, 452519. doi: <u><a href="https://doi.org/10.1101/2021.07.15.452519
 "> https://doi.org/10.1101/2021.07.15.452519</a></u>
- 3. Lu, J.#, **Li, Y.**#, Wu, J., & Chang, E. F. The control of lexical tone production in human laryngeal motor cortex. (Manuscript in preparation for submission)
- 4. Elliott, P. W., Boring, M. J., **Li, Y.**, Richardson, R. M., Ghuman, A. S., & G'sell, M. G. (2019). Shrinkage Classification for Overlapping Time Series: An interpretable method for mapping stimulus-differentiated evoked response. *BioRxiv*, 733279. doi: <u><a href="https://doi.org/10.1101/733279">https://doi.org/10.1101/733279</a></u>
- 5. Boring, M. J., Hirshorn, E. A., **Li, Y.**, Ward, M. J., Richardson, R. M., Fiez, J. A., & Ghuman, A. S. (2018). The left midfusiform gyrus interacts with early visual cortex and the anterior temporal lobe to support word individuation. *BioRxiv*, 411579. doi: <u><a href="https://doi.org/10.1101/411579">https://doi.org/10.1101/411579</a></u>
+ 4. Lu, J.#, **Li, Y.**#, Wu, J., & Chang, E. F. The control of lexical tone production in human laryngeal motor cortex. (Manuscript in preparation for submission)
+ 5. Elliott, P. W., Boring, M. J., **Li, Y.**, Richardson, R. M., Ghuman, A. S., & G'sell, M. G. (2019). Shrinkage Classification for Overlapping Time Series: An interpretable method for mapping stimulus-differentiated evoked response. *bioRxiv*, 733279. doi: <u><a href="https://doi.org/10.1101/733279">https://doi.org/10.1101/733279</a></u>
+ 6. Boring, M. J., Hirshorn, E. A., **Li, Y.**, Ward, M. J., Richardson, R. M., Fiez, J. A., & Ghuman, A. S. (2018). The left midfusiform gyrus interacts with early visual cortex and the anterior temporal lobe to support word individuation. *bioRxiv*, 411579. doi: <u><a href="https://doi.org/10.1101/411579">https://doi.org/10.1101/411579</a></u>
 
 ### Peer-reviewed Journal Articles
 
