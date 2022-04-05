@@ -10,7 +10,6 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### Preprints
 
  1. **Li, Y.**\*, Anumanchipalli, G., Mohamed, A., Lu, J., Wu, J., Chang, E.F.\* (2022) Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *bioRxiv*, 484195, doi: <u><a href="https://doi.org/10.1101/2022.03.14.484195"> https://doi.org/10.1101/2022.03.14.484195</a></u>
-
  2.  Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S\*. (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
  3.  Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2021) Latent neural dynamics encode temporal context in speech. *bioRxiv*, 452519. doi: <u><a href="https://doi.org/10.1101/2021.07.15.452519
 "> https://doi.org/10.1101/2021.07.15.452519</a></u>
