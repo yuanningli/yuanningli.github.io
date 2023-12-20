@@ -9,10 +9,6 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 
 ### Preprints
- [M6] <ins> Chen, P.</ins>, <ins> He, L. </ins>, Fu, L., Fan, L., Chang, E. F., & **Li, Y.** \*. Do self-supervised speech and language models extract similar representations as human brain? *arXiv*, doi: <u><a href="https://arxiv.org/abs/2310.04645">https://arxiv.org/abs/2310.04645</a></u>
-
- [M5] <ins> Li, J. </ins>, <ins> Guo, C. </ins>, Fu, L., Fan, L., Chang, E. F. & **Li, Y.** \*. Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction, *arXiv*, doi: <u><a href="https://arxiv.org/abs/2310.04644">https://arxiv.org/abs/2310.04644</a></u>
-
  [M4] **Li, Y.**\*#, Yang, H.#, & Gu, S.,\*. Upgrading Voxel-wise Encoding Model via Integrated Integration over Features and Brain Networks. *bioRxiv*, 515387, doi: <u><a href="https://doi.org/10.1101/2022.11.06.515387">https://doi.org/10.1101/2022.11.06.515387</a></u>
 
  [M3] Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S\*. (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
@@ -22,6 +18,8 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
  [M1] Boring, M. J., Hirshorn, E. A., **Li, Y.**, Ward, M. J., Richardson, R. M., Fiez, J. A., & Ghuman, A. S. (2018). The left midfusiform gyrus interacts with early visual cortex and the anterior temporal lobe to support word individuation. *bioRxiv*, 411579. doi: <u><a href="https://doi.org/10.1101/411579">https://doi.org/10.1101/411579</a></u>
 
 ### Peer-reviewed Journal Articles
+ [J13] Yang, L., Zhen, H., Li, L., **Li, Y.**, Zhang, H., Xie, X., Zhang, R.-Y. (2023) Functional diversity of visual cortex improves constraint-free natural image reconstruction from human brain activity. *Fundamental Research*. 2023 Nov 24, [Web](https://doi.org/10.1016/j.fmre.2023.08.010).
+
  [J12] **Li, Y.**, Anumanchipalli, G., Mohamed, A., Chen, P., Carney, L. H., Lu, J., Wu, J., Chang, E.F. (2023) Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *Nature Neuroscience*, [Web](https://doi.org/10.1038/s41593-023-01468-4), [PDF](https://doi.org/10.1038/s41593-023-01468-4)
 
  [J11] Lu, J.#, **Li, Y.**#, <ins> Zhao, Z.</ins>#, <ins> Liu, Y. </ins>, Zhu, Y., Mao, Y., Wu, J., Chang, E. F. (2023) Neural control of lexical tone production in human laryngeal motor cortex. *Nature Communications*, 14:6917, 1-14. [Web](https://doi.org/10.1038/s41467-023-42175-9), [PDF](https://doi.org/10.1038/s41467-023-42175-9)
@@ -47,6 +45,11 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
  [J1] Ghuman, A. S., Brunet, N. M., **Li, Y.**, Konecky, R. O., Pyles, J. A., Walls, S. A., Destefino, V., Wang, W. & Richardson, R. M. (2014). Dynamic encoding of face information in the human fusiform gyrus. *Nature Communications, 5*(1), 1-10. [Web](https://www.ncbi.nlm.nih.gov/pubmed/25482825), [PDF](/files/2014_NatComms.pdf)
 
 ### Peer-reviewed Conference Proceedings
+ [C4] <ins> Chen, P.</ins>, <ins> He, L. </ins>, Fu, L., Fan, L., Chang, E. F., & **Li, Y.** \*. (2024) Do self-supervised speech and language models extract similar representations as human brain? *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)*, preprint doi: <u><a href="https://arxiv.org/abs/2310.04645">https://arxiv.org/abs/2310.04645</a></u>
+
+ [C3] <ins> Li, J. </ins>, <ins> Guo, C. </ins>, Fu, L., Fan, L., Chang, E. F. & **Li, Y.** \*. (2024) Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction, *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)*, preprint doi: <u><a href="https://arxiv.org/abs/2310.04644">https://arxiv.org/abs/2310.04644</a></u>
+
+
  [C2] Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2021) Multivariate temporal receptive fields in speech perception reflect low-dimensional dynamics. *Computational and Systems Neuroscience (Cosyne 2021)*, 2021
 
  [C1] Albalawi, H., **Li, Y.**, & Li, X. (2014). Computer-aided design of machine learning algorithm: Training fixed-point classifier for on-chip low-power implementation. In *Proceedings of the 51st Annual Design Automation Conference (DAC 2014)* (pp. 1-6). (acceptance rate: 174/787 = 22.1%) [PDF](/files/2014_DAC_alda.pdf)
