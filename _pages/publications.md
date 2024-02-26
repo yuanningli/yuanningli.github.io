@@ -18,6 +18,8 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
  [M1] Boring, M. J., Hirshorn, E. A., **Li, Y.**, Ward, M. J., Richardson, R. M., Fiez, J. A., & Ghuman, A. S. (2018). The left midfusiform gyrus interacts with early visual cortex and the anterior temporal lobe to support word individuation. *bioRxiv*, 411579. doi: <u><a href="https://doi.org/10.1101/411579">https://doi.org/10.1101/411579</a></u>
 
 ### Peer-reviewed Journal Articles
+ [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024) Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, [Web](https://10.1109/TNSRE.2024.3351670).
+
  [J13] Yang, L., Zhen, H., Li, L., **Li, Y.**, Zhang, H., Xie, X., Zhang, R.-Y. (2023) Functional diversity of visual cortex improves constraint-free natural image reconstruction from human brain activity. *Fundamental Research*. 2023 Nov 24, [Web](https://doi.org/10.1016/j.fmre.2023.08.010).
 
  [J12] **Li, Y.**, Anumanchipalli, G., Mohamed, A., Chen, P., Carney, L. H., Lu, J., Wu, J., Chang, E.F. (2023) Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *Nature Neuroscience*, [Web](https://doi.org/10.1038/s41593-023-01468-4), [PDF](https://doi.org/10.1038/s41593-023-01468-4)
@@ -45,10 +47,11 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
  [J1] Ghuman, A. S., Brunet, N. M., **Li, Y.**, Konecky, R. O., Pyles, J. A., Walls, S. A., Destefino, V., Wang, W. & Richardson, R. M. (2014). Dynamic encoding of face information in the human fusiform gyrus. *Nature Communications, 5*(1), 1-10. [Web](https://www.ncbi.nlm.nih.gov/pubmed/25482825), [PDF](/files/2014_NatComms.pdf)
 
 ### Peer-reviewed Conference Proceedings
+ [C5] <ins> He, L. </ins>, <ins> Chen, P.</ins>, Nie, E., **Li, Y.**, Brennan, J. R. (2024) Language Models as the Brain: Probing Internal Linguistic Structures within Neural Language Models using Minimal Pairs. *2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)*.
+
  [C4] <ins> Chen, P.</ins>, <ins> He, L. </ins>, Fu, L., Fan, L., Chang, E. F., & **Li, Y.** \*. (2024) Do self-supervised speech and language models extract similar representations as human brain? *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)*, preprint doi: <u><a href="https://arxiv.org/abs/2310.04645">https://arxiv.org/abs/2310.04645</a></u>
 
  [C3] <ins> Li, J. </ins>, <ins> Guo, C. </ins>, Fu, L., Fan, L., Chang, E. F. & **Li, Y.** \*. (2024) Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction, *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)*, preprint doi: <u><a href="https://arxiv.org/abs/2310.04644">https://arxiv.org/abs/2310.04644</a></u>
-
 
  [C2] Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2021) Multivariate temporal receptive fields in speech perception reflect low-dimensional dynamics. *Computational and Systems Neuroscience (Cosyne 2021)*, 2021
 
