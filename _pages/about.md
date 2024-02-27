@@ -17,4 +17,4 @@ My research interests primarily lie in the intersection between computational an
  * to understand how different aspects of high-level sensory and semantic information are represented and processed in neural populations, underlying cognitive processes such as language and vision;
  * to build computational models of these cognitive processes in the brain.
 
-To achieve these goals, I develop and apply statistical machine learning methods to analyze large-scale neural data recorded using ECoG, MEG and fMRI. 
+To achieve these goals, I develop and apply statistical machine learning methods to analyze large-scale neural data recorded using ECoG, fMRI and M/EEG. 
