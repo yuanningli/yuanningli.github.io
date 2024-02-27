@@ -22,15 +22,15 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
  [J13] Yang, L., Zhen, H., Li, L., **Li, Y.**, Zhang, H., Xie, X., Zhang, R.-Y. (2023) Functional diversity of visual cortex improves constraint-free natural image reconstruction from human brain activity. *Fundamental Research*. 2023 Nov 24. [[Link](https://doi.org/10.1016/j.fmre.2023.08.010)]
 
- [J12] **Li, Y.**, Anumanchipalli, G., Mohamed, A., Chen, P., Carney, L. H., Lu, J., Wu, J., Chang, E.F. (2023) Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *Nature Neuroscience*, [[Link](https://doi.org/10.1038/s41593-023-01468-4)]
+ [J12] **Li, Y.**, Anumanchipalli, G., Mohamed, A., Chen, P., Carney, L. H., Lu, J., Wu, J., Chang, E.F. (2023) Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *Nature Neuroscience, 26*(12), 2213–2225.[[Link](https://doi.org/10.1038/s41593-023-01468-4)]
 
- [J11] Lu, J.#, **Li, Y.**#, <ins> Zhao, Z.</ins>#, <ins> Liu, Y. </ins>, Zhu, Y., Mao, Y., Wu, J., Chang, E. F. (2023) Neural control of lexical tone production in human laryngeal motor cortex. *Nature Communications*, 14:6917, 1-14. [[Link](https://doi.org/10.1038/s41467-023-42175-9)]
+ [J11] Lu, J.#, **Li, Y.**#, <ins> Zhao, Z.</ins>#, <ins> Liu, Y. </ins>, Zhu, Y., Mao, Y., Wu, J., Chang, E. F. (2023) Neural control of lexical tone production in human laryngeal motor cortex. *Nature Communications, 14*:6917, 1-14. [[Link](https://doi.org/10.1038/s41467-023-42175-9)]
 
  [J10] Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2023) Latent neural dynamics encode temporal context in speech. *Hearing Research*, vol.437. [[Link](https://www.sciencedirect.com/science/article/pii/S0378595523001508)]
 
- [J9] <ins> Liu, Y. </ins>, <ins>Zhao, Z.</ins>, Xu, M., Yu, H., Zhu, Y., Zhang, J., Bu, L., Zhang, X., Lu, J.\*, **Li, Y.**\*, Ming, D., & Wu, J.\* (2023). Decoding and synthesizing tonal language speech from brain activity. *Science Advances*, 9(23), eadh0478. [[Link](https://www.science.org/doi/full/10.1126/sciadv.adh0478)]
+ [J9] <ins> Liu, Y. </ins>, <ins>Zhao, Z.</ins>, Xu, M., Yu, H., Zhu, Y., Zhang, J., Bu, L., Zhang, X., Lu, J.\*, **Li, Y.**\*, Ming, D., & Wu, J.\* (2023). Decoding and synthesizing tonal language speech from brain activity. *Science Advances, 9*(23), eadh0478, 1-10. [[Link](https://www.science.org/doi/full/10.1126/sciadv.adh0478)]
 
- [J8] **Li, Y.**#, Tang, C.#, Lu, J.#, Wu, J., & Chang, E. F. (2021). Human cortical encoding of pitch in tonal and non-tonal languages. *Nature Communications, 12*, 1161, 1-12. [[Link](https://rdcu.be/cfvc2)]
+ [J8] **Li, Y.**#, Tang, C.#, Lu, J.#, Wu, J., & Chang, E. F. (2021). Human cortical encoding of pitch in tonal and non-tonal languages. *Nature Communications*, 12:1161, 1-12. [[Link](https://rdcu.be/cfvc2)]
 
  [J7] **Li, Y.**\*, Ward, M. J., Richardson, R. M., G’Sell, M., & Ghuman, A. S. (2020). Endogenous activity modulates stimulus and circuit-specific neural tuning and predicts perceptual behavior. *Nature Communications, 11*, 4014, 1-11. [[Link](https://rdcu.be/b6cgV)]
 
