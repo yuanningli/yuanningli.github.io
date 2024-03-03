@@ -9,8 +9,7 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 
 ### Preprints
- [M4] **Li, Y.**\*#, Yang, H.#, & Gu, S.,\*. Upgrading Voxel-wise Encoding Model via Integrated Integration over Features and Brain Networks. *bioRxiv*, 515387, doi: <u><a href="https://doi.org/10.1101/2022.11.06.515387">https://doi.org/10.1101/2022.11.06.515387</a></u>
-
+ 
  [M3] Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S\*. (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
 
  [M2] Elliott, P. W., Boring, M. J., **Li, Y.**, Richardson, R. M., Ghuman, A. S., & G'sell, M. G. (2019). Shrinkage Classification for Overlapping Time Series: An interpretable method for mapping stimulus-differentiated evoked response. *bioRxiv*, 733279. doi: <u><a href="https://doi.org/10.1101/733279">https://doi.org/10.1101/733279</a></u>
@@ -18,7 +17,9 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
  [M1] Boring, M. J., Hirshorn, E. A., **Li, Y.**, Ward, M. J., Richardson, R. M., Fiez, J. A., & Ghuman, A. S. (2018). The left midfusiform gyrus interacts with early visual cortex and the anterior temporal lobe to support word individuation. *bioRxiv*, 411579. doi: <u><a href="https://doi.org/10.1101/411579">https://doi.org/10.1101/411579</a></u>
 
 ### Peer-reviewed Journal Articles
- [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024) Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. [[Link](https://10.1109/TNSRE.2024.3351670)]
+ [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.,\*. (2024) Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, in press. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
+
+ [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024) Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. 
 
  [J13] Yang, L., Zhen, H., Li, L., **Li, Y.**, Zhang, H., Xie, X., Zhang, R.-Y. (2023) Functional diversity of visual cortex improves constraint-free natural image reconstruction from human brain activity. *Fundamental Research*. 2023 Nov 24. [[Link](https://doi.org/10.1016/j.fmre.2023.08.010)]
 
