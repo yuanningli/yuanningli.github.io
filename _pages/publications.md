@@ -10,24 +10,24 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 ### Preprints
  
- [M3] Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S\*. (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
+ [M3] Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S.\* (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
 
  [M2] Elliott, P. W., Boring, M. J., **Li, Y.**, Richardson, R. M., Ghuman, A. S., & G'sell, M. G. (2019). Shrinkage Classification for Overlapping Time Series: An interpretable method for mapping stimulus-differentiated evoked response. *bioRxiv*, 733279. doi: <u><a href="https://doi.org/10.1101/733279">https://doi.org/10.1101/733279</a></u>
 
  [M1] Boring, M. J., Hirshorn, E. A., **Li, Y.**, Ward, M. J., Richardson, R. M., Fiez, J. A., & Ghuman, A. S. (2018). The left midfusiform gyrus interacts with early visual cortex and the anterior temporal lobe to support word individuation. *bioRxiv*, 411579. doi: <u><a href="https://doi.org/10.1101/411579">https://doi.org/10.1101/411579</a></u>
 
 ### Peer-reviewed Journal Articles
- [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.,\*. (2024) Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, in press. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
+ [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.\* (2024). Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, in press. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
 
- [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024) Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. 
+ [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024). Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. 
 
- [J13] Yang, L., Zhen, H., Li, L., **Li, Y.**, Zhang, H., Xie, X., Zhang, R.-Y. (2023) Functional diversity of visual cortex improves constraint-free natural image reconstruction from human brain activity. *Fundamental Research*. 2023 Nov 24. [[Link](https://doi.org/10.1016/j.fmre.2023.08.010)]
+ [J13] Yang, L., Zhen, H., Li, L., **Li, Y.**, Zhang, H., Xie, X., Zhang, R.-Y. (2023). Functional diversity of visual cortex improves constraint-free natural image reconstruction from human brain activity. *Fundamental Research*. 2023 Nov 24. [[Link](https://doi.org/10.1016/j.fmre.2023.08.010)]
 
- [J12] **Li, Y.**, Anumanchipalli, G., Mohamed, A., Chen, P., Carney, L. H., Lu, J., Wu, J., Chang, E.F. (2023) Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *Nature Neuroscience, 26*(12), 2213–2225.[[Link](https://doi.org/10.1038/s41593-023-01468-4)]
+ [J12] **Li, Y.**, Anumanchipalli, G., Mohamed, A., Chen, P., Carney, L. H., Lu, J., Wu, J., Chang, E.F. (2023). Dissecting neural computations of the human auditory pathway using deep neural networks for speech. *Nature Neuroscience, 26*(12), 2213–2225.[[Link](https://doi.org/10.1038/s41593-023-01468-4)]
 
- [J11] Lu, J.#, **Li, Y.**#, <ins> Zhao, Z.</ins>#, <ins> Liu, Y. </ins>, Zhu, Y., Mao, Y., Wu, J., Chang, E. F. (2023) Neural control of lexical tone production in human laryngeal motor cortex. *Nature Communications, 14*:6917, 1-14. [[Link](https://doi.org/10.1038/s41467-023-42175-9)]
+ [J11] Lu, J.#, **Li, Y.**#, <ins> Zhao, Z.</ins>#, <ins> Liu, Y. </ins>, Zhu, Y., Mao, Y., Wu, J., Chang, E. F. (2023). Neural control of lexical tone production in human laryngeal motor cortex. *Nature Communications, 14*:6917, 1-14. [[Link](https://doi.org/10.1038/s41467-023-42175-9)]
 
- [J10] Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2023) Latent neural dynamics encode temporal context in speech. *Hearing Research*, vol.437. [[Link](https://www.sciencedirect.com/science/article/pii/S0378595523001508)]
+ [J10] Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2023). Latent neural dynamics encode temporal context in speech. *Hearing Research*, vol.437. [[Link](https://www.sciencedirect.com/science/article/pii/S0378595523001508)]
 
  [J9] <ins> Liu, Y. </ins>, <ins>Zhao, Z.</ins>, Xu, M., Yu, H., Zhu, Y., Zhang, J., Bu, L., Zhang, X., Lu, J.\*, **Li, Y.**\*, Ming, D., & Wu, J.\* (2023). Decoding and synthesizing tonal language speech from brain activity. *Science Advances, 9*(23), eadh0478, 1-10. [[Link](https://www.science.org/doi/full/10.1126/sciadv.adh0478)]
 
