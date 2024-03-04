@@ -19,7 +19,7 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### Peer-reviewed Journal Articles
  [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.\* (2024). Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, in press. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
 
- [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024). Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. 
+ [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024). Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 32*, 350-357. [[Link](https://doi.org/10.1109/TNSRE.2024.3351670)] 
 
  [J13] Yang, L., Zhen, H., Li, L., **Li, Y.**, Zhang, H., Xie, X., Zhang, R.-Y. (2023). Functional diversity of visual cortex improves constraint-free natural image reconstruction from human brain activity. *Fundamental Research*. 2023 Nov 24. [[Link](https://doi.org/10.1016/j.fmre.2023.08.010)]
 
