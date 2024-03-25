@@ -9,6 +9,7 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 
 ### Preprints
+ [M4] <ins>Zhang, D.</ins>, <ins>Wang, Z.</ins>, <ins>Qian, Y.</ins>, <ins>Zhao, Z.</ins>, Liu, Y., Hao, X., Li, W., Lu, S., Zhu, H., Chen, L., Xu, K., **Li, Y.**\*, Wu, J.\*, Lu, J.\* (2024). A brain-to-text framework of decoding natural tonal sentences. *bioRxiv*, 585337, doi: <u><a href="https://doi.org/10.1101/2024.03.16.585337"> https://doi.org/10.1101/2024.03.16.585337</a></u>.
  
  [M3] Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S.\* (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
 
