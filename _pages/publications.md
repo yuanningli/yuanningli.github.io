@@ -49,7 +49,7 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
  [J1] Ghuman, A. S., Brunet, N. M., **Li, Y.**, Konecky, R. O., Pyles, J. A., Walls, S. A., Destefino, V., Wang, W. & Richardson, R. M. (2014). Dynamic encoding of face information in the human fusiform gyrus. *Nature Communications, 5*(1), 1-10. [[Link](https://www.ncbi.nlm.nih.gov/pubmed/25482825)]
 
 ### Peer-reviewed Conference Proceedings
- [C5] <ins> He, L. </ins>, <ins> Chen, P.</ins>, Nie, E., **Li, Y.**, Brennan, J. R. (2024) Language Models as the Brain: Probing Internal Linguistic Structures within Neural Language Models using Minimal Pairs. *2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)*.
+ [C5] <ins> He, L. </ins>, <ins> Chen, P.</ins>, Nie, E., **Li, Y.**, Brennan, J. R. (2024) Decoding Probing: Revealing Internal Linguistic Structures in Neural Language Models using Minimal Pairs. *2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)*. Preprint doi: <u><a href="https://doi.org/10.48550/arXiv.2403.17299">https://doi.org/10.48550/arXiv.2403.17299</a></u>
 
  [C4] <ins> Chen, P.</ins>, <ins> He, L. </ins>, Fu, L., Fan, L., Chang, E. F., & **Li, Y.** \*. (2024) Do self-supervised speech and language models extract similar representations as human brain? *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)*, preprint doi: <u><a href="https://arxiv.org/abs/2310.04645">https://arxiv.org/abs/2310.04645</a></u>
 
