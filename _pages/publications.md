@@ -8,16 +8,9 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 
-### Preprints
- [M4] <ins>Zhang, D.</ins>, <ins>Wang, Z.</ins>, <ins>Qian, Y.</ins>, <ins>Zhao, Z.</ins>, Liu, Y., Hao, X., Li, W., Lu, S., Zhu, H., Chen, L., Xu, K., **Li, Y.**\*, Wu, J.\*, Lu, J.\* (2024). A brain-to-text framework of decoding natural tonal sentences. *bioRxiv*, 585337, doi: <u><a href="https://doi.org/10.1101/2024.03.16.585337"> https://doi.org/10.1101/2024.03.16.585337</a></u>.
- 
- [M3] Yang, H., Zhang, S., Wu, Y., **Li, Y.**\*, & Gu, S.\* (2021). Effective ensemble of deep neural networks predicts neural responses to naturalistic videos. *bioRxiv*, 457581. doi: <u><a href="https://doi.org/10.1101/2021.08.24.457581"> https://doi.org/10.1101/2021.08.24.457581</a></u>
-
- [M2] Elliott, P. W., Boring, M. J., **Li, Y.**, Richardson, R. M., Ghuman, A. S., & G'sell, M. G. (2019). Shrinkage Classification for Overlapping Time Series: An interpretable method for mapping stimulus-differentiated evoked response. *bioRxiv*, 733279. doi: <u><a href="https://doi.org/10.1101/733279">https://doi.org/10.1101/733279</a></u>
-
- [M1] Boring, M. J., Hirshorn, E. A., **Li, Y.**, Ward, M. J., Richardson, R. M., Fiez, J. A., & Ghuman, A. S. (2018). The left midfusiform gyrus interacts with early visual cortex and the anterior temporal lobe to support word individuation. *bioRxiv*, 411579. doi: <u><a href="https://doi.org/10.1101/411579">https://doi.org/10.1101/411579</a></u>
-
 ### Peer-reviewed Journal Articles
+ [J16] <ins>Zhang, D.</ins>#, <ins>Wang, Z.</ins>#, <ins>Qian, Y.</ins>#, <ins>Zhao, Z.</ins>, Liu, Y., Hao, X., Li, W., Lu, S., Zhu, H., Chen, L., Xu, K., **Li, Y.**\*, Lu, J.\* (2024). A brain-to-text framework for decoding natural tonal sentences. *Cell Reports*, *in press*, doi: <u><a href="https://doi.org/10.1101/2024.03.16.585337"> https://doi.org/10.1101/2024.03.16.585337</a></u>.
+
  [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.\* (2024). Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, in press. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
 
  [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024). Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 32*, 350-357. [[Link](https://doi.org/10.1109/TNSRE.2024.3351670)] 
@@ -49,11 +42,11 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
  [J1] Ghuman, A. S., Brunet, N. M., **Li, Y.**, Konecky, R. O., Pyles, J. A., Walls, S. A., Destefino, V., Wang, W. & Richardson, R. M. (2014). Dynamic encoding of face information in the human fusiform gyrus. *Nature Communications, 5*(1), 1-10. [[Link](https://www.ncbi.nlm.nih.gov/pubmed/25482825)]
 
 ### Peer-reviewed Conference Proceedings
- [C5] <ins> He, L. </ins>, <ins> Chen, P.</ins>, Nie, E., **Li, Y.**, Brennan, J. R. (2024) Decoding Probing: Revealing Internal Linguistic Structures in Neural Language Models using Minimal Pairs. *2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024)*. Preprint doi: <u><a href="https://doi.org/10.48550/arXiv.2403.17299">https://doi.org/10.48550/arXiv.2403.17299</a></u>
+ [C5] <ins> He, L. </ins>, <ins> Chen, P.</ins>, Nie, E., **Li, Y.**, Brennan, J. R. (2024) Decoding Probing: Revealing Internal Linguistic Structures in Neural Language Models using Minimal Pairs. *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. Preprint doi: <u><a href="https://aclanthology.org/2024.lrec-main.402">https://aclanthology.org/2024.lrec-main.402</a></u>
 
- [C4] <ins> Chen, P.</ins>, <ins> He, L. </ins>, Fu, L., Fan, L., Chang, E. F., & **Li, Y.** \*. (2024) Do self-supervised speech and language models extract similar representations as human brain? *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)*, preprint doi: <u><a href="https://arxiv.org/abs/2310.04645">https://arxiv.org/abs/2310.04645</a></u>
+ [C4] <ins> Chen, P.</ins>, <ins> He, L. </ins>, Fu, L., Fan, L., Chang, E. F., & **Li, Y.** \*. (2024) Do self-supervised speech and language models extract similar representations as human brain? *ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, preprint doi: <u><a href="https://doi.org/10.1109/ICASSP48485.2024.10446334">https://doi.org/10.1109/ICASSP48485.2024.10446334</a></u>
 
- [C3] <ins> Li, J. </ins>, <ins> Guo, C. </ins>, Fu, L., Fan, L., Chang, E. F. & **Li, Y.** \*. (2024) Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction, *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)*, preprint doi: <u><a href="https://arxiv.org/abs/2310.04644">https://arxiv.org/abs/2310.04644</a></u>
+ [C3] <ins> Li, J. </ins>, <ins> Guo, C. </ins>, Fu, L., Fan, L., Chang, E. F. & **Li, Y.** \*. (2024) Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction, *ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, preprint doi: <u><a href="https://doi.org/10.1109/ICASSP48485.2024.10446614">https://doi.org/10.1109/ICASSP48485.2024.10446614</a></u>
 
  [C2] Stephen, E., **Li, Y.**, Metzger, S., Oganian, Y., & Chang, E. F. (2021) Multivariate temporal receptive fields in speech perception reflect low-dimensional dynamics. *Computational and Systems Neuroscience (Cosyne 2021)*, 2021
 
