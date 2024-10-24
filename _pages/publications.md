@@ -11,7 +11,7 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### Peer-reviewed Journal Articles
  [J16] <ins>Zhang, D.</ins>#, <ins>Wang, Z.</ins>#, <ins>Qian, Y.</ins>#, <ins>Zhao, Z.</ins>, Liu, Y., Hao, X., Li, W., Lu, S., Zhu, H., Chen, L., Xu, K., **Li, Y.**\*, Lu, J.\* (2024). A brain-to-text framework for decoding natural tonal sentences. *Cell Reports*, *in press*, doi: <u><a href="https://doi.org/10.1101/2024.03.16.585337"> https://doi.org/10.1101/2024.03.16.585337</a></u>.
 
- [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.\* (2024). Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, in press. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
+ [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.\* (2024). Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, *69*(11), 1738-1747. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
 
  [J14] Hou, R.#, Guo, Q.#, Wu, Q.\#, Zhao, Z., Hu, X., Yan, Y., He, W., Lyu, P., Su, R., Tan, T., Wang, X.\*, **Li, Y.**\*, He, D.\*, & Xu, L.* (2024). Quantification of hypsarrhythmia in infantile spasmatic EEG: a large cohort study. *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 32*, 350-357. [[Link](https://doi.org/10.1109/TNSRE.2024.3351670)] 
 
