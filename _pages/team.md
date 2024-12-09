@@ -49,7 +49,7 @@ Youkun Qian (MD student, Fudan University, 2022 to present)\\
   -- Coadvised with Jinsong Wu and Junfeng Lu
 
 
-## Colaborators: ##
+## Collaborators: ##
 Jinsong Wu (Fudan/Huashan Hospital)
 
 Junfeng Lu (Fudan/Huashan Hospital)
