@@ -30,6 +30,8 @@ Yuxuan Hu (Undergraduate student in Biomedical Engineering, 2024 to present)
 
 Mingzheng Wu (Undergraduate student in Computer Science, 2024 to present)
 
+Kaixuan Bian (Undergraduate student in Biological Sciences, 2024 to present)
+
 Peili Chen (Research assistant, 2024 to present)
 
 
