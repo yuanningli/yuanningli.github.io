@@ -7,6 +7,15 @@ author_profile: true
 You can find a full list of my articles and preprints on <ins>[my Google Scholar profile](https://scholar.google.com/citations?user=qETQrrkAAAAJ&hl=en)</ins>.
 
 ### #equal contributions; \* corresponding author(s); __ trainees advised
+### Preprints
+ [P3] <ins>Li, J.</ins>, <ins>Guo, C.</ins>, Chang, E. F., & **Li, Y.**\* (2024). Natural speech re-synthesis from direct cortical recordings using a pre-trained encoder-decoder framework. *bioRxiv*, 2024-12. [[Link](
+https://doi.org/10.1101/2024.12.16.628596)]
+
+ [P2] <ins>Chen, P.</ins>, <ins>Xiang, S.</ins>, <ins>He, L.</ins>, Chang, E. F., & **Li, Y.**\* (2024). Convergent representations and spatiotemporal dynamics of speech and language in brain and deep neural networks. *bioRxiv*, 2024-12. [[Link](
+https://doi.org/10.1101/2024.12.28.630582)]
+
+ [P1] Yang, F., Feng, C., Wang, D., Wang, T., Zeng, Z., Xu, Z., Park, H., Ji, P., Zhao, H., **Li, Y.** & Wong, A., 2024. Neurobind: Towards unified multimodal representations for neural signals. *arXiv* preprint arXiv:2407.14020. [[Link](
+https://doi.org/10.48550/arXiv.2407.14020)]
 
 ### Peer-reviewed Journal Articles
  [J16] <ins>Zhang, D.</ins>#, <ins>Wang, Z.</ins>#, <ins>Qian, Y.</ins>#, <ins>Zhao, Z.</ins>, Liu, Y., Hao, X., Li, W., Lu, S., Zhu, H., Chen, L., Xu, K., **Li, Y.**\*, Lu, J.\* (2024). A brain-to-text framework for decoding natural tonal sentences. *Cell Reports*, Vol. 43, Issue 11, 114924. [[Link](https://doi.org/10.1016/j.celrep.2024.114924)]
