@@ -18,6 +18,8 @@ https://doi.org/10.1101/2024.12.28.630582)]
 https://doi.org/10.48550/arXiv.2407.14020)]
 
 ### Peer-reviewed Journal Articles
+ [J17] <ins>Zhang, D.</ins>#, <ins>Wang, Z.</ins>#, <ins>Qian, Y.</ins>, <ins>Zhao, Z.</ins>, Liu, Y., Lu, J.\*, **Li, Y.**\*, (2025). Protocol to perform offline ECoG brain-to-text decoding for natural tonal sentences. *STAR Protocols*, Vol. 6, Issue 1, 103650. [[Link](https://doi.org/10.1016/j.xpro.2025.103650)]
+
  [J16] <ins>Zhang, D.</ins>#, <ins>Wang, Z.</ins>#, <ins>Qian, Y.</ins>#, <ins>Zhao, Z.</ins>, Liu, Y., Hao, X., Li, W., Lu, S., Zhu, H., Chen, L., Xu, K., **Li, Y.**\*, Lu, J.\* (2024). A brain-to-text framework for decoding natural tonal sentences. *Cell Reports*, Vol. 43, Issue 11, 114924. [[Link](https://doi.org/10.1016/j.celrep.2024.114924)]
 
  [J15] **Li, Y.**\*#, Yang, H.#, & Gu, S.\* (2024). Enhancing neural encoding models for naturalistic perception with a multi-level integration of deep neural networks and cortical networks. *Science Bulletin*, *69*(11), 1738-1747. [[Link](https://doi.org/10.1016/j.scib.2024.02.035)]
