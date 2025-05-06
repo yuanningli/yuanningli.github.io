@@ -38,7 +38,7 @@ Peili Chen (Research assistant, 2024 to present)
 ## Co-advised MD/PhD students at Huashan Hospital: ##
 Yan Liu (MD '23, Fudan University) \\
   -- Coadvised with Jinsong Wu and Junfeng Lu \\
-  -- Currently postdoct at Tokyo Institute of Technology
+  -- Currently postdoc at Tokyo Institute of Technology
 
 Zehao Zhao (MD '24, Fudan University) \\
   -- Coadvised with Jinsong Wu and Junfeng Lu\\
@@ -56,7 +56,7 @@ Jinsong Wu (Fudan/Huashan Hospital)
 
 Junfeng Lu (Fudan/Huashan Hospital)
 
-Shi Gu (UESTC)
+Shi Gu (Zhejiang University)
 
 Ru-Yuan Zhang (Shanghai Jiao Tong University)
 
