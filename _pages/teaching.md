@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 
-### BME2111 Neural Signal Processing and Data Analysis (ShanghaiTech)
-Graduate course, Instructor, *Offered in Fall 2022, Fall 2023, Fall 2024*
+### BME2111/2127 Neural Signal Processing and Machine Learning (ShanghaiTech)
+Graduate course, Instructor, *Offered in Fall 2022, Fall 2023, Fall 2024, Fall 2025*
 
 A graduate course in the field of intelligent medicine within biomedical engineering. As an introductory course to computational neuroscience and neural engineering, it is suitable for graduate students and senior undergraduates who aspire to pursue research in neural engineering, computational neuroscience, and related fields. The course mainly introduces the application of modern statistical signal processing, machine learning, and artificial intelligence technologies in neuroscience. It specifically focuses on how to record and describe neural signals, how to establish statistical models for different scales of experimental data, how to use statistical and machine learning methods to analyze neural data, and then analyze the characteristics of neural systems. It also integrates signal processing and control technologies to decode and regulate neural systems, cognitive behaviors, and psychiatric diseases. Through this course, students will understand and master the theories and methods of data analysis commonly used in neuroscience, laying the foundation for research in brain science, neural engineering, computational neuroscience, artificial intelligence, and related fields.
 

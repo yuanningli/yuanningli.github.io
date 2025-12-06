@@ -8,6 +8,10 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 ### Preprints
+ [P5] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2025). Predictive vision-language integration in the human visual cortex. *bioRxiv*, 2025-11. [[Link](https://doi.org/10.1101/2025.11.03.686222)]
+
+ [P4] <ins>Zhao, Z.</ins>#, <ins>Wang, Z.</ins>#, <ins>Liu, Y.</ins>#, Qian, Y., Yin, Y., Gao, X., Yuan, B., Tong, S.X., Tian, X., Chen, G.\*, **Li, Y.**\*, Lu, J.\*, & Wu, J.\* (2025). Neural hierarchy for coding articulatory dynamics in speech imagery and production. *bioRxiv*, 2025-05. [[Link](https://doi.org/10.1101/2025.05.27.656311)]
+
  [P3] <ins>Li, J.</ins>, <ins>Guo, C.</ins>, Chang, E. F., & **Li, Y.**\* (2024). Natural speech re-synthesis from direct cortical recordings using a pre-trained encoder-decoder framework. *bioRxiv*, 2024-12. [[Link](
 https://doi.org/10.1101/2024.12.16.628596)]
 
@@ -18,6 +22,14 @@ https://doi.org/10.1101/2024.12.28.630582)]
 https://doi.org/10.48550/arXiv.2407.14020)]
 
 ### Peer-reviewed Journal Articles
+ [J21] <ins>Qian, Y.</ins>, Liu, C., <ins>Yu, P.</ins>, Ran, X., <ins>Li, S.</ins>, Yang, Q., Liu, Y., Xia, L., Wang, Y., Qi, J., Zhou, E., Lu, J., **Li, Y.**, Tao, T., Zhou, Z., Wu, J. (2025). Real-time decoding of full-spectrum Chinese using brain-computer interface. *Science Advances*, 11(45), p.eadz9968. [[Link](https://doi.org/10.1126/sciadv.adz9968)]
+
+ [J20] Yan, Y., <ins>Wu, Q.</ins>, He, W., <ins>Guo, Q.</ins>, Hou, R., Su, R., Tan, T., Wang, X., **Li, Y.**\*, He, D.\*, & Xu, L.\* (2025). Auto-detection of hypsarrhythmia EEG in West Syndrome by dedicated feature fusion and machine learning. *IEEE Sensors Journal*. 25(13), 24863 - 24872. [[Link](https://doi.org/10.1109/JSEN.2025.3568867)]
+
+ [J19] Lian, D., <ins>Guo, Q.</ins>, <ins>Zhao, Z.</ins>, He, W., Yan, Y., Hou, R., Wang, X., **Li, Y.**\*, Bao, W.\*, He, D.\*, & Xu, L.\* (2025). Connectivity analysis of hypsarrhythmia-EEG for infants with West Syndrome. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*. Vol. 33, pp. 1896-1904. [[Link](https://doi.org/10.1109/TNSRE.2025.3569226)]
+ 
+ [J18] Bian, L., Wang, N., **Li, Y.**, Razi, A., Wang, Q., Zhang, H., Shen, D., & UNC/UMN Baby Connectome Project Consortium. (2025). Evaluating the evolution and inter-individual variability of infant functional module development from 0 to 5 yr old. *Cerebral Cortex*, 35(4), bhaf071. [[Link](https://doi.org/10.1093/cercor/bhaf071)]
+
  [J17] <ins>Zhang, D.</ins>#, <ins>Wang, Z.</ins>#, <ins>Qian, Y.</ins>, <ins>Zhao, Z.</ins>, Liu, Y., Lu, J.\*, **Li, Y.**\*, (2025). Protocol to perform offline ECoG brain-to-text decoding for natural tonal sentences. *STAR Protocols*, Vol. 6, Issue 1, 103650. [[Link](https://doi.org/10.1016/j.xpro.2025.103650)]
 
  [J16] <ins>Zhang, D.</ins>#, <ins>Wang, Z.</ins>#, <ins>Qian, Y.</ins>#, <ins>Zhao, Z.</ins>, Liu, Y., Hao, X., Li, W., Lu, S., Zhu, H., Chen, L., Xu, K., **Li, Y.**\*, Lu, J.\* (2024). A brain-to-text framework for decoding natural tonal sentences. *Cell Reports*, Vol. 43, Issue 11, 114924. [[Link](https://doi.org/10.1016/j.celrep.2024.114924)]

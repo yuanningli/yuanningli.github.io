@@ -12,11 +12,11 @@ Shurui Li (Ph.D. student in Computer Science, 2022 to present)
 
 Zhenjie Wang (Ph.D. student in Computer Science, 2022 to present)
 
+Shiji Xiang (Ph.D. student in Biomedical Engineering, 2023 to present)
+
+Nanjun Ye (Ph.D. student in Biomedical Engineering, 2023 to present)
+
 Zheyu Jin (M.S. student in Biomedical Engineering, 2023 to present)
-
-Shiji Xiang (M.S. student in Biomedical Engineering, 2023 to present)
-
-Nanjun Ye (M.S. student in Biomedical Engineering, 2023 to present)
 
 Peixi Yu (M.S. student in Biomedical Engineering, 2023 to present)
 
@@ -24,15 +24,17 @@ Yifei Bai (M.S. student in Biomedical Engineering, 2024 to present)
 
 Pingping Yang (M.S. student in Biomedical Engineering, 2024 to present)
 
+Yuxuan Hu (M.S. student in Biomedical Engineering, 2025 to present)
+
+Mingzheng Wu (M.S. student in Biomedical Engineering, 2025 to present)
+
 Youran Mu (Undergraduate student in Biomedical Engineering, 2023 to present)
-
-Yuxuan Hu (Undergraduate student in Biomedical Engineering, 2024 to present)
-
-Mingzheng Wu (Undergraduate student in Computer Science, 2024 to present)
 
 Kaixuan Bian (Undergraduate student in Biological Sciences, 2024 to present)
 
 Peili Chen (Research assistant, 2024 to present)
+
+Shiqi Shen (visiting Ph.D. student, 2024 to present)
 
 
 ## Co-advised MD/PhD students at Huashan Hospital: ##
