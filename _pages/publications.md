@@ -8,12 +8,9 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 ### Preprints
- [P5] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2025). Predictive vision-language integration in the human visual cortex. *bioRxiv*, 2025-11. [[Link](https://doi.org/10.1101/2025.11.03.686222)]
+ [P4] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2025). Predictive vision-language integration in the human visual cortex. *bioRxiv*, 2025-11. [[Link](https://doi.org/10.1101/2025.11.03.686222)]
 
- [P4] <ins>Zhao, Z.</ins>#, <ins>Wang, Z.</ins>#, <ins>Liu, Y.</ins>#, Qian, Y., Yin, Y., Gao, X., Yuan, B., Tong, S.X., Tian, X., Chen, G.\*, **Li, Y.**\*, Lu, J.\*, & Wu, J.\* (2025). Neural hierarchy for coding articulatory dynamics in speech imagery and production. *bioRxiv*, 2025-05. [[Link](https://doi.org/10.1101/2025.05.27.656311)]
-
- [P3] <ins>Li, J.</ins>, <ins>Guo, C.</ins>, Chang, E. F., & **Li, Y.**\* (2024). Natural speech re-synthesis from direct cortical recordings using a pre-trained encoder-decoder framework. *bioRxiv*, 2024-12. [[Link](
-https://doi.org/10.1101/2024.12.16.628596)]
+ [P3] <ins>Zhao, Z.</ins>#, <ins>Wang, Z.</ins>#, <ins>Liu, Y.</ins>#, Qian, Y., Yin, Y., Gao, X., Yuan, B., Tong, S.X., Tian, X., Chen, G.\*, **Li, Y.**\*, Lu, J.\*, & Wu, J.\* (2025). Neural hierarchy for coding articulatory dynamics in speech imagery and production. *bioRxiv*, 2025-05. [[Link](https://doi.org/10.1101/2025.05.27.656311)]
 
  [P2] <ins>Chen, P.</ins>, <ins>Xiang, S.</ins>, <ins>He, L.</ins>, Chang, E. F., & **Li, Y.**\* (2024). Convergent representations and spatiotemporal dynamics of speech and language in brain and deep neural networks. *bioRxiv*, 2024-12. [[Link](
 https://doi.org/10.1101/2024.12.28.630582)]
@@ -22,6 +19,9 @@ https://doi.org/10.1101/2024.12.28.630582)]
 https://doi.org/10.48550/arXiv.2407.14020)]
 
 ### Peer-reviewed Journal Articles
+ [J22] <ins>Li, J.</ins>, <ins>Guo, C.</ins>, Chang, E. F., & **Li, Y.**\* (2025). Natural speech re-synthesis from direct cortical recordings using a pre-trained encoder-decoder framework. *eLife*, 2025, 109400. [[Link](
+https://doi.org/10.7554/eLife.109400)]
+
  [J21] <ins>Qian, Y.</ins>, Liu, C., <ins>Yu, P.</ins>, Ran, X., <ins>Li, S.</ins>, Yang, Q., Liu, Y., Xia, L., Wang, Y., Qi, J., Zhou, E., Lu, J., **Li, Y.**, Tao, T., Zhou, Z., Wu, J. (2025). Real-time decoding of full-spectrum Chinese using brain-computer interface. *Science Advances*, 11(45), p.eadz9968. [[Link](https://doi.org/10.1126/sciadv.adz9968)]
 
  [J20] Yan, Y., <ins>Wu, Q.</ins>, He, W., <ins>Guo, Q.</ins>, Hou, R., Su, R., Tan, T., Wang, X., **Li, Y.**\*, He, D.\*, & Xu, L.\* (2025). Auto-detection of hypsarrhythmia EEG in West Syndrome by dedicated feature fusion and machine learning. *IEEE Sensors Journal*. 25(13), 24863 - 24872. [[Link](https://doi.org/10.1109/JSEN.2025.3568867)]
