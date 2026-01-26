@@ -65,9 +65,11 @@ https://doi.org/10.7554/eLife.109400)]
  [J1] Ghuman, A. S., Brunet, N. M., **Li, Y.**, Konecky, R. O., Pyles, J. A., Walls, S. A., Destefino, V., Wang, W. & Richardson, R. M. (2014). Dynamic encoding of face information in the human fusiform gyrus. *Nature Communications, 5*(1), 1-10. [[Link](https://www.ncbi.nlm.nih.gov/pubmed/25482825)]
 
 ### Peer-reviewed Conference Proceedings
- [C7] <ins>Ye, N.</ins>, Fu, L., **Li, Y.**\*. (2026) ITD-aware Binaural Spiking Networks for Sound Source Localization. *2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*, IEEE, 2026.
+ [C8] <ins>Ye, N.</ins>, Fu, L., **Li, Y.**\*. (2026) ITD-aware Binaural Spiking Networks for Sound Source Localization. *2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*, IEEE, 2026.
 
- [C6] <ins>Li, J.</ins>, <ins>Bian, K.</ins>, Wu, J., Lu, J., **Li, Y.**\*. (2026) Dynamic Cross-band Multisensory Integration of Audiovisual Perception in STG and MTG. *Compu-tational and Systems Neuroscience (COSYNE) 2026*, COSYNE, 2026.
+ [C7] <ins>Li, J.</ins>, <ins>Bian, K.</ins>, Wu, J., Lu, J., **Li, Y.**\*. (2026) Dynamic Cross-band Multisensory Integration of Audiovisual Perception in STG and MTG. *Compu-tational and Systems Neuroscience (COSYNE) 2026*, COSYNE, 2026.
+
+ [C6] <ins>Yu, P.</ins>#, <ins>Mu, Y.</ins>#, <ins>Wang, Z.</ins>, <ins>Zhang, D.</ins>, Lu, J., **Li, Y.**\*. Optimizing Tonal Speech Decoding from Electrocorticography with a Multi-band Ensemble Network. *12th Annual IEEE International Conference on Neural Engineering (NER 25)*, IEEE, 2025.
 
  [C5] <ins> He, L. </ins>, <ins> Chen, P.</ins>, Nie, E., **Li, Y.**, Brennan, J. R. (2024) Decoding Probing: Revealing Internal Linguistic Structures in Neural Language Models using Minimal Pairs. *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. doi: <u><a href="https://aclanthology.org/2024.lrec-main.402">https://aclanthology.org/2024.lrec-main.402</a></u>
 
