@@ -19,6 +19,11 @@ https://doi.org/10.1101/2024.12.28.630582)]
 https://doi.org/10.48550/arXiv.2407.14020)]
 
 ### Peer-reviewed Journal Articles
+ [J24] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2026). A large-scale fMRI dataset for vision-language semantic association. *Scientific Data*, 2026. [[Link](https://doi.org/10.1038/s41597-026-07248-6)]
+
+ [J23] He, C., Yu, X., Zhang, Y., **Li, Y.**\* and Jiang, N.\* (2026). Wearable EEG devices in the detection of mild cognitive impairment: a systematic review. *npj Digital Medicine*, 9(265), [[Link](https://doi.org/10.1038/s41746-026-02342-w)]. 
+
+
  [J22] <ins>Li, J.</ins>, <ins>Guo, C.</ins>, Chang, E. F., & **Li, Y.**\* (2025). Natural speech re-synthesis from direct cortical recordings using a pre-trained encoder-decoder framework. *eLife*, 2025, 109400. [[Link](
 https://doi.org/10.7554/eLife.109400)]
 
