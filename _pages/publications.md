@@ -8,6 +8,8 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 ### Preprints
+ [P5] <ins>Li, J.</ins>, <ins>Bian, K.</ins>, Hao, X., Qian, Y., Wu, J., Lu, J.\*, & **Li, Y**\*. (2026). Dissociable frequency regimes in human temporal cortex integrate facial and acoustic cues during natural speech. *bioRxiv*, 2026-03. [[Link](https://doi.org/10.64898/2026.03.02.709171)]
+
  [P4] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2025). Predictive vision-language integration in the human visual cortex. *bioRxiv*, 2025-11. [[Link](https://doi.org/10.1101/2025.11.03.686222)]
 
  [P3] <ins>Zhao, Z.</ins>#, <ins>Wang, Z.</ins>#, <ins>Liu, Y.</ins>#, Qian, Y., Yin, Y., Gao, X., Yuan, B., Tong, S.X., Tian, X., Chen, G.\*, **Li, Y.**\*, Lu, J.\*, & Wu, J.\* (2025). Neural hierarchy for coding articulatory dynamics in speech imagery and production. *bioRxiv*, 2025-05. [[Link](https://doi.org/10.1101/2025.05.27.656311)]
