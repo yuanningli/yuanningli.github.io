@@ -18,9 +18,9 @@ Shurui Li (Ph.D. student in Computer Science)
 
 Zhenjie Wang (Ph.D. student in Computer Science)
 
-Shiji Xiang (Ph.D. student in Biomedical Engineering)
+Shiji Xiang (Ph.D. student in Computer Science)
 
-Nanjun Ye (Ph.D. student in Biomedical Engineering)
+Nanjun Ye (Ph.D. student in Computer Science)
 
 Pingping Yang (Ph.D. student in Computer Science)
 
