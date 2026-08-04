@@ -88,7 +88,7 @@ Huayu Wang (B.S. in Biological Sciences at ShanghaiTech, 2023 to 2024)
 Youran Mu (B.S. in Biomedical Engineering at ShanghaiTech, 2023 to 2026) \\
 -- Currently Ph.D. student at Zhejiang University with Shi Gu
 
-Peili Chen (M.S. in Biomedical Engineering at ShanghaiTech, 2021 to 2024)
+Peili Chen (M.S. in Biomedical Engineering at ShanghaiTech, 2021 to 2024) \\
 -- Currently Research Assistant at ShanghaiTech
 
 Peixi Yu (M.S. in Biomedical Engineering at ShanghaiTech, 2023 to 2026) \\
