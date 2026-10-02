@@ -8,11 +8,9 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 ### #equal contributions; \* corresponding author(s); __ trainees advised
 ### Preprints
- [P5] <ins>Li, J.</ins>, <ins>Bian, K.</ins>, Hao, X., Qian, Y., Wu, J., Lu, J.\*, & **Li, Y**\*. (2026). Dissociable frequency regimes in human temporal cortex integrate facial and acoustic cues during natural speech. *bioRxiv*, 2026-03. [[Link](https://doi.org/10.64898/2026.03.02.709171)]
+ [P4] <ins>Li, J.</ins>, <ins>Bian, K.</ins>, Hao, X., Qian, Y., Wu, J., Lu, J.\*, & **Li, Y**\*. (2026). Dissociable frequency regimes in human temporal cortex integrate facial and acoustic cues during natural speech. *bioRxiv*, 2026-03. [[Link](https://doi.org/10.64898/2026.03.02.709171)]
 
- [P4] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2025). Predictive vision-language integration in the human visual cortex. *bioRxiv*, 2025-11. [[Link](https://doi.org/10.1101/2025.11.03.686222)]
-
- [P3] <ins>Zhao, Z.</ins>#, <ins>Wang, Z.</ins>#, <ins>Liu, Y.</ins>#, Qian, Y., Yin, Y., Gao, X., Yuan, B., Tong, S.X., Tian, X., Chen, G.\*, **Li, Y.**\*, Lu, J.\*, & Wu, J.\* (2025). Neural hierarchy for coding articulatory dynamics in speech imagery and production. *bioRxiv*, 2025-05. [[Link](https://doi.org/10.1101/2025.05.27.656311)]
+ [P3] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2025). Predictive vision-language integration in the human visual cortex. *bioRxiv*, 2025-11. [[Link](https://doi.org/10.1101/2025.11.03.686222)]
 
  [P2] <ins>Chen, P.</ins>, <ins>Xiang, S.</ins>, <ins>He, L.</ins>, Chang, E. F., & **Li, Y.**\* (2024). Convergent representations and spatiotemporal dynamics of speech and language in brain and deep neural networks. *bioRxiv*, 2024-12. [[Link](
 https://doi.org/10.1101/2024.12.28.630582)]
@@ -21,6 +19,10 @@ https://doi.org/10.1101/2024.12.28.630582)]
 https://doi.org/10.48550/arXiv.2407.14020)]
 
 ### Peer-reviewed Journal Articles
+ [J27] <ins>Zhao, Z.</ins>#, <ins>Wang, Z.</ins>#, <ins>Liu, Y.</ins>#, Qian, Y., Yin, Y., Gao, X., Yuan, B., Tong, S.X., Tian, X., Chen, G.\*, **Li, Y.**\*, Lu, J.\*, & Wu, J.\* (2026). A neural architecture for imagined and overt speech motor dynamics. *Nature Neuroscience*, 2026. [[Link](https://doi.org/10.1038/s41593-026-02456-0)]
+
+ [J26] Yun, D., Wang, Z., Zhao, S., <ins>Wang, Z.</ins>, Ma, H., He, F., Lu, J., **Li, Y.**, Xie, H., & Guan, J. S. (2026). Distributed cortical learning through LEC-mediated γ-synchrony. *Nature Communications*, 17(10396). [[Link](https://doi.org/10.1038/s41467-026-77266-w)]
+
  [J25] Zhang, D., Zhang, H., Wu, J., **Li, Y.**\*, Lu, J.\* (2026). A Fine-grained Spatiotemporal ECoG Dataset during Speech Perception in Tonal Language. *Scientific Data*, 2026. [[Link](https://doi.org/10.1038/s41597-026-07619-z)]
 
  [J24] <ins>Li, S.</ins>, <ins>Jin, Z.</ins>, Zhang, R. Y.\*, Gu, S.\*, & **Li, Y.**\* (2026). A large-scale fMRI dataset for vision-language semantic association. *Scientific Data*, 13(905). [[Link](https://doi.org/10.1038/s41597-026-07248-6)]
