@@ -76,6 +76,8 @@ https://doi.org/10.7554/eLife.109400)]
  [J1] Ghuman, A. S., Brunet, N. M., **Li, Y.**, Konecky, R. O., Pyles, J. A., Walls, S. A., Destefino, V., Wang, W. & Richardson, R. M. (2014). Dynamic encoding of face information in the human fusiform gyrus. *Nature Communications, 5*(1), 1-10. [[Link](https://www.ncbi.nlm.nih.gov/pubmed/25482825)]
 
 ### Peer-reviewed Conference Proceedings
+ [C9] <ins>Shen, S.</ins>, <ins>Li, S.</ins>, Zhang, X.\*, **Li, Y.**\*. AVID: A 5T fMRI Dataset for Benchmarking Auditory-induced Visual Mental Imagery Decoding. *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)*, 2026.
+
  [C8] <ins>Ye, N.</ins>, Fu, L., **Li, Y.**\*. (2026) ITD-aware Binaural Spiking Networks for Sound Source Localization. *2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*, IEEE, 2026.
 
  [C7] <ins>Li, J.</ins>, <ins>Bian, K.</ins>, Wu, J., Lu, J., **Li, Y.**\*. (2026) Dynamic Cross-band Multisensory Integration of Audiovisual Perception in STG and MTG. *Compu-tational and Systems Neuroscience (COSYNE) 2026*, COSYNE, 2026.
